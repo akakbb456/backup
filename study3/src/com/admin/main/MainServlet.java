@@ -11,7 +11,7 @@ import com.util.MyServlet;
 
 @WebServlet("/admin/main.do")
 public class MainServlet extends MyServlet {
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L;//sadfds
 
 	@Override
 	protected void process(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
